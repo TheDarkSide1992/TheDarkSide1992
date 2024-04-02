@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+🔭 I’m currently studying Computer Science
+
+🌱 I’m currently learning C# (.NET 8), Flutter/Dart, Angular/Ionic/typeScript, Postgres/SQL
+
+✨ Abilities
+    * .NET (C#)
+    * Flutter / Dart
+    * PostgreSQL / SQL
+    * ANgular / Ionic
+    * TypeScipt
+    * CSS / SCSS
+    * Java
+    
+⚡ Fun fact: My programing journey startet with unity (C# scripts) game and small Java console applications.
+
 <!--
 **TheDarkSide1992/TheDarkSide1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
