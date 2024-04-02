@@ -5,6 +5,7 @@
 🌱 I’m currently learning C# (.NET 8), Flutter/Dart, Angular/Ionic/typeScript, Postgres/SQL
 
 ✨ Abilities
+    
     * .NET (C#)
     * Flutter / Dart
     * PostgreSQL / SQL
