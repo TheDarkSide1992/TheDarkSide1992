@@ -9,7 +9,7 @@
    * .NET (C#)
    * Flutter / Dart
    * PostgreSQL / SQL
-   * ANgular / Ionic
+   * Angular / Ionic
    * TypeScipt
    * CSS / SCSS
    * Java
