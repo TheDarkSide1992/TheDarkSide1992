@@ -1,18 +1,19 @@
 ### Hi there 👋
 
-🔭 I’m currently studying Computer Science
+🔭 I’m currently studying Software Development
 
-🌱 I’m currently learning C# (.NET 8), Flutter/Dart, Angular/Ionic/typeScript, Postgres/SQL
+🌱 I’m currently learning and Hopefully that never stops.
 
 ✨ Abilities
 
    * .NET (C#)
+   * Python
+   * Java
    * Flutter / Dart
-   * PostgreSQL / SQL
    * Angular / Ionic
    * TypeScipt
    * CSS / SCSS
-   * Java
+   * PostgreSQL / SQL
     
 ⚡ Fun fact: My programing journey startet with unity (C# scripts) game and small Java console applications.
 
