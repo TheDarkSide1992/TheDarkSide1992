@@ -1,9 +1,9 @@
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff4dd8,100:00C4FF&height=200&section=header&text=👋%20Hi,%20I'm%20Jens%20💻&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20|%20.NET&descAlignY=60&descAlign=50)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff4dd8,100:00C4FF&height=200&section=header&text=%20Hi,%20I'm%20Jens%20💻&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20|%20.NET&descAlignY=60&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4500&pause=1000&color=ff4dd8&width=600&lines=~%24+Batchlelor+in+Software+Development;~%24+TheDarkSide1992;&repeat=false&prefix=~%24+&size=28)](https://git.io/typing-svg)
 
-### 🤔Who am I?
+### <img src="https://devicon-website.vercel.app/api/linux/original.svg" width="24"/> Who am I?
 I am Jens and I enjoy working with backend applications, and generally expanding my horizons with new and improved knowledge. I always love to find ways to improve and evolve my abilities, both as a software developer and as a person.
 
 
