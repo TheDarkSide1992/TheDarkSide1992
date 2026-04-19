@@ -38,8 +38,6 @@ My programing journey startet with unity (C# scripts) game and small Java consol
 
 <br>
 
-## Tech Stack
-
 <!-- https://devicon-website.vercel.app/ -->
 <!-- devicon.dev -->
 
